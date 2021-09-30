@@ -1,0 +1,16 @@
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\bin\Debug\net5.0\MethodsExercise03-Bonus.exe
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\bin\Debug\net5.0\MethodsExercise03-Bonus.deps.json
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\bin\Debug\net5.0\MethodsExercise03-Bonus.runtimeconfig.json
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\bin\Debug\net5.0\MethodsExercise03-Bonus.runtimeconfig.dev.json
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\bin\Debug\net5.0\MethodsExercise03-Bonus.dll
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\bin\Debug\net5.0\ref\MethodsExercise03-Bonus.dll
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\bin\Debug\net5.0\MethodsExercise03-Bonus.pdb
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\obj\Debug\net5.0\MethodsExercise03-Bonus.csproj.AssemblyReference.cache
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\obj\Debug\net5.0\MethodsExercise03-Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\obj\Debug\net5.0\MethodsExercise03-Bonus.AssemblyInfoInputs.cache
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\obj\Debug\net5.0\MethodsExercise03-Bonus.AssemblyInfo.cs
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\obj\Debug\net5.0\MethodsExercise03-Bonus.csproj.CoreCompileInputs.cache
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\obj\Debug\net5.0\MethodsExercise03-Bonus.dll
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\obj\Debug\net5.0\ref\MethodsExercise03-Bonus.dll
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\obj\Debug\net5.0\MethodsExercise03-Bonus.pdb
+C:\Users\blake\Desktop\repos\MethodsExercise03-Bonus\MethodsExercise03-Bonus\obj\Debug\net5.0\MethodsExercise03-Bonus.genruntimeconfig.cache
